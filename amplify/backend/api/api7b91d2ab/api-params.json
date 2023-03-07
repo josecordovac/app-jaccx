@@ -1,0 +1,38 @@
+{
+    "paths": [
+        {
+            "name": "/items",
+            "lambdaFunction": "appjaccx6d71e533",
+            "privacy": {
+                "private": true,
+                "auth": [
+                    "/POST",
+                    "/GET"
+                ]
+            }
+        }
+    ],
+    "resourceName": "api7b91d2ab",
+    "apiName": "api7b91d2ab",
+    "functionArns": [
+        {
+            "lambdaFunction": "appjaccx6d71e533"
+        }
+    ],
+    "privacy": {
+        "auth": 1,
+        "unauth": 0,
+        "authRoleName": "amplify-appjaccx-dev-00231-authRole",
+        "unAuthRoleName": "amplify-appjaccx-dev-00231-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "appjaccx6d71e533",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}

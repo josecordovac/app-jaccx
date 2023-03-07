@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-appjaccx-dev-00231-authRole",
+            "UnauthRoleArn": "arn:aws:iam::047145857795:role/amplify-appjaccx-dev-00231-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::047145857795:role/amplify-appjaccx-dev-00231-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-appjaccx-dev-00231-deployment",
+            "UnauthRoleName": "amplify-appjaccx-dev-00231-unauthRole",
+            "StackName": "amplify-appjaccx-dev-00231",
+            "StackId": "arn:aws:cloudformation:us-west-2:047145857795:stack/amplify-appjaccx-dev-00231/32e4d630-5d0c-11ea-b8dc-069045656416",
+            "AmplifyAppId": "d1grsy18doeesv"
+        },
+        "categories": {
+            "auth": {
+                "cognito3bd161a6": {}
+            }
+        }
+    }
+}
